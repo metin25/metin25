@@ -1,3 +1,2 @@
-Merhaba Ben Metin. 15 Yaşındayım. Yazılıma ve Bilgisayara Merak Duyuyorum. Kod Yazmak Ve Bilgisayarda Vakit Geçirmeyi Seviyorum. Python Dilini Öğreniyorum. İlerde Veri
-Tabanından İlerlemek İstiyorum Ama Tam Olarak Emin Değilim. Meslek Lisesinde Okuyorum Ve Bilişim Teknolojileri Bölümündeyim. İlerdeki Hayalim Üst Düzey Bir Yazılımcı 
-Olmak Ve  Yurt Dışına Çıkabilmek .
+18 yaşında bir Yazılım Geliştirme öğrencisiyim.İlgilendiğim ve sertifikam olan alanlar:c# winforms ve SQL Server.Şu anda Masaüstü Uygulama Geliştirme ve Veritabanı üstüne projeler geliştiriyorum.
+EN:I am an 18-year-old Software Development student. The areas I am interested in and have a certificate in are: c# winforms and SQL Server. I am currently developing projects on Desktop Application Development and Database.
